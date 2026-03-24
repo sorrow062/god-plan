@@ -9,7 +9,7 @@ import {
   Lightbulb, RefreshCw
 } from 'lucide-react';
 
-const apiKey = "AIzaSyAHoVzpprG8IVOPUSBiWWtrLCoHKl5rcDI";
+const apiKey = "";
 
 // ─────────────────────────────────────────────
 // 🍅 番茄钟（支持绑定任务，自动记录用时）
